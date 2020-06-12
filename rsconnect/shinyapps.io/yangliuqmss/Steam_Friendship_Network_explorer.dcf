@@ -1,0 +1,12 @@
+name: Steam_Friendship_Network_explorer
+title: Steam_Friendship_Network_explorer
+username:
+account: yangliuqmss
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2448241
+bundleId: 3263450
+url: https://yangliuqmss.shinyapps.io/Steam_Friendship_Network_explorer/
+when: 1592002028.34571
+asMultiple: FALSE
+asStatic: FALSE
